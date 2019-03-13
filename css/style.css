@@ -13,7 +13,7 @@ body {
   background-color: #dde1e2;
   width: 100%;
 
-
+  /* Especific per a iOS */
   overscroll-behavior-y: contain;
   -webkit-user-select: none;
   -webkit-tap-highlight-color: transparent;
